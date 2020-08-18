@@ -11,4 +11,4 @@ More about me →
 www.silvadigital.net
 
 Medium  →
-https://medium.com/@maxsilvauk
+medium.com/@maxsilvauk
