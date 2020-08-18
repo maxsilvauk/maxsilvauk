@@ -9,3 +9,6 @@ Right now I’m spending time with family, whilst experimenting with new softwar
 
 More about me →
 www.silvadigital.net
+
+Medium  →
+https://medium.com/@maxsilvauk
