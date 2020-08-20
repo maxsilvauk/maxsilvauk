@@ -10,5 +10,3 @@ Right now I’m spending time with family, whilst experimenting with new softwar
 More about me → www.silvadigital.net
 
 Medium  → www.medium.com/@maxsilvauk
-
-Football → Chelsea / Alessandro Del Piero :D
