@@ -5,7 +5,7 @@
 Hey, I’m Max
 
 I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. 
-Right now I am starting a greenfield project for Space01.co.uk. Looking into updating my portfolio with React and GSAP + Three.js
+Right now I am working on a React GSAP project for Visa.
 
 More about me → www.silvadigital.net
 
