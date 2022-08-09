@@ -4,7 +4,7 @@
 
 Hey, I’m Max
 
-I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. 
+I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently working on a ReactJS project for the Government Digital Service team. 
 
 More about me → www.silvadigital.net
 
