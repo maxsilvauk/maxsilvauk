@@ -2,9 +2,12 @@
 
 Hey, I’m Max
 
-I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently working on as a senior developer on a couple of internal ReactJS projects for the Government Digital Service team.
+I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently finishing a contract for the Government Digital Service team. Looking for new opportunites immediately. Currently working on some background projects using Next.JS, react-three-fiber, zustand, vercel. 
 
-Also doing some cool stuff with [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples)
+
+next [next](https://nextjs.org/)
+react-three-fiber [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples)
+vercel [vercel](https://vercel.com/)
 
 More about me → www.silvadigital.net
 
