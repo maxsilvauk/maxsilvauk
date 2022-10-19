@@ -8,7 +8,53 @@ I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently li
 
 More about me → www.silvadigital.net
 
-Medium  → www.medium.com/@maxsilvauk
+Medium  → www.medium.com/@maxsilvauk. - Currentlty working on updating this site.
 
-![React](https://camo.githubusercontent.com/3e00ad0ca29bdc37611d4eadc6003e0616b5bdce80050f5750bcbe4ae8353f97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3435623864383f6c6f676f3d7265616374)![NextJS](https://img.shields.io/badge/-NextJS-black?logo=Next.js)![Vercel](https://img.shields.io/badge/-Vercel-black?logo=Vercel)![CircleCI](https://img.shields.io/badge/-CircleCI-black?logo=CircleCI)![Typescript](https://camo.githubusercontent.com/d3896f28f8880841fbfd447e4c6e846332f7d884daa77c5b5fa043850f8dc039/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)![GraphQL](https://camo.githubusercontent.com/8893cd6e8368fe9b5e3e309322017893fa38d2280e975635a464b795a322beb4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4772617068516c2d4531303039383f6c6f676f3d6772617068716c266c6f676f436f6c6f723d7768697465)
+I use these tools frequently in contracted roles and personal projects:
+
+![Reactv18](https://img.shields.io/badge/-React%20v18-%23232F3E?logo=React)
+![Reactv17](https://img.shields.io/badge/-React%20v17-%23232F3E?logo=React)
+![NextJSv12](https://img.shields.io/badge/-Next%20v12-%23232F3E?logo=Next.JS)
+![Redux/Toolkit](https://img.shields.io/badge/-Redux/Toolkit-%23232F3E?logo=Redux)
+![Redux](https://img.shields.io/badge/-Redux-%23232F3E?logo=Redux)
+![i18next](https://img.shields.io/badge/-i18next-%23232F3E?logo=i18next)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23232F3E?logo=GraphQL)
+![ReactThreeFiber](https://img.shields.io/badge/-React%20Three%20Fiber-%23232F3E?logo=Three.js)
+![Vercel](https://img.shields.io/badge/-Vercel-%23232F3E?logo=Vercel)
+![MaterialUI](https://img.shields.io/badge/-Material%20UI-%23232F3E?logo=Mui)
+![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23232F3E?logo=Bootstrap)
+![AmazonS3](https://img.shields.io/badge/-Amazon%20S3-%23232F3E?logo=AmazonS3)
+![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
+![Slack](https://img.shields.io/badge/-Slack-%23232F3E?logo=Slack)
+![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-%23232F3E?logo=MicrosoftTeams)
+![Google Hangouts](https://img.shields.io/badge/-Google%20Hangouts-%23232F3E?logo=GoogleHangouts)
+![zoom](https://img.shields.io/badge/-Zoom-%23232F3E?logo=Zoom)
+![Postman](https://img.shields.io/badge/-Postman-%23232F3E?logo=Postman)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23232F3E?logo=AdobePhotoshop)
+![Sketch](https://img.shields.io/badge/-Sketch-%23232F3E?logo=Sketch)
+![Figma](https://img.shields.io/badge/-Figma-%23232F3E?logo=Figma)
+![Git](https://img.shields.io/badge/-Git-%23232F3E?logo=Git)
+![Microsoft Visual Studio Code](https://img.shields.io/badge/-VS%20Code-%23232F3E?logo=VisualStudioCode)
+![Hyper](https://img.shields.io/badge/-Hyper-%23232F3E?logo=Hyper)
+
+
+Tools and tech I am getting better at using more of are:
+
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
+![Zustand](https://img.shields.io/badge/-Zustand-%23232F3E?logo=Zustand)
+![Docker](https://img.shields.io/badge/-Docker-%23232F3E?logo=Docker)
+![AmazonEC2](https://img.shields.io/badge/-Amazon%20EC2-%23232F3E?logo=AmazonEC2)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
+![MongoDBAtlas](https://img.shields.io/badge/-MongoDBAtlas-%23232F3E?logo=MongoDB)
+
+Tools and tech I would like to know more about are: 
+
+![Blender](https://img.shields.io/badge/-Blender-%23232F3E?logo=Blender)
+![Prisma](https://img.shields.io/badge/-Prisma-%23232F3E?logo=Prisma)
+![GraphQLCMS](https://img.shields.io/badge/-GraphQLCMS-%23232F3E?logo=GraphQL)
+![Strapi.io](https://img.shields.io/badge/-Strapi.io-%23232F3E?logo=Strapi)
+![Terraform](https://img.shields.io/badge/-Terraform-%23232F3E?logo=Terraform)
+
+
 
