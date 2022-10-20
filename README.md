@@ -59,7 +59,7 @@ I am getting better at using:
 ![MongoDBAtlas](https://img.shields.io/badge/-MongoDBAtlas-%23232F3E?logo=MongoDB)
 ![Express](https://img.shields.io/badge/-Express-%23232F3E?logo=Express)
 
-Need to use and understand more of maybe?
+Need to use and understand more of:
 
 ![Blender](https://img.shields.io/badge/-Blender-%23232F3E?logo=Blender)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23232F3E?logo=Prisma)
