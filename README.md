@@ -16,7 +16,7 @@ I use these tools frequently for work and personal projects:
 ![Reactv17](https://img.shields.io/badge/-React%20v17-%23232F3E?logo=React)
 ![ReactThreeFiber](https://img.shields.io/badge/-React%20Three%20Fiber-%23232F3E?logo=Three.js)
 ![NextJSv12](https://img.shields.io/badge/-Next%20v12-%23232F3E?logo=Next.JS)
-![NextJSv13](https://img.shields.io/badge/-Next%20v12-%23232F3E?logo=Next.JS)
+![NextJSv13](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23232F3E?logo=TypeScript)
 ![Redux/Toolkit](https://img.shields.io/badge/-Redux/Toolkit-%23232F3E?logo=Redux)
 ![Redux](https://img.shields.io/badge/-Redux-%23232F3E?logo=Redux)
