@@ -16,16 +16,19 @@ I use these tools frequently for work and personal projects:
 ![Reactv17](https://img.shields.io/badge/-React%20v17-%23232F3E?logo=React)
 ![ReactThreeFiber](https://img.shields.io/badge/-React%20Three%20Fiber-%23232F3E?logo=Three.js)
 ![NextJSv12](https://img.shields.io/badge/-Next%20v12-%23232F3E?logo=Next.JS)
+![NextJSv13](https://img.shields.io/badge/-Next%20v12-%23232F3E?logo=Next.JS)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23232F3E?logo=TypeScript)
 ![Redux/Toolkit](https://img.shields.io/badge/-Redux/Toolkit-%23232F3E?logo=Redux)
 ![Redux](https://img.shields.io/badge/-Redux-%23232F3E?logo=Redux)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23232F3E?logo=TypeScript)
+![Express](https://img.shields.io/badge/-Express-%23232F3E?logo=Express)
+![Docker](https://img.shields.io/badge/-Docker-%23232F3E?logo=Docker)
+![GraphQL](https://img.shields.io/badge/-GraphQL-%23232F3E?logo=GraphQL)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23232F3E?logo=Storybook)
 ![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
 ![i18next](https://img.shields.io/badge/-i18next-%23232F3E?logo=i18next)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-%23232F3E?logo=Mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23232F3E?logo=Bootstrap)
-![GraphQL](https://img.shields.io/badge/-GraphQL-%23232F3E?logo=GraphQL)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-%23232F3E?logo=CircleCI)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23232F3E?logo=Vercel)
 ![ESLint](https://img.shields.io/badge/-ESLint-%23232F3E?logo=ESLint)
@@ -53,11 +56,9 @@ I am getting better at using:
 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
 ![Zustand](https://img.shields.io/badge/-Zustand-%23232F3E?logo=Zustand)
-![Docker](https://img.shields.io/badge/-Docker-%23232F3E?logo=Docker)
 ![AmazonEC2](https://img.shields.io/badge/-Amazon%20EC2-%23232F3E?logo=AmazonEC2)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
 ![MongoDBAtlas](https://img.shields.io/badge/-MongoDBAtlas-%23232F3E?logo=MongoDB)
-![Express](https://img.shields.io/badge/-Express-%23232F3E?logo=Express)
 
 Need to use and understand more of:
 
