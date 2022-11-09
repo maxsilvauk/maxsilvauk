@@ -2,7 +2,7 @@
 
 Hey, I’m Max
 
-I’m prodoimately a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently finishing a contract for the Government Digital Service team. Looking for new opportunites immediately. Currently working on some personal projects using [next](https://nextjs.org/),
+I’m predominantly a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently finishing a contract for the Government Digital Service team. Looking for new opportunites immediately. Currently working on some personal projects using [next](https://nextjs.org/),
 [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples) and
 [vercel](https://vercel.com/).
 
