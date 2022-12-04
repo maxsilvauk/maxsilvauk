@@ -28,6 +28,7 @@ I use these tools frequently for work and personal projects:
 ![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
 ![i18next](https://img.shields.io/badge/-i18next-%23232F3E?logo=i18next)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-%23232F3E?logo=Mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23232F3E?logo=Bootstrap)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-%23232F3E?logo=CircleCI)
@@ -55,7 +56,6 @@ I use these tools frequently for work and personal projects:
 
 I am getting better at using: 
 
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
 ![Zustand](https://img.shields.io/badge/-Zustand-%23232F3E?logo=Zustand)
 ![AmazonEC2](https://img.shields.io/badge/-Amazon%20EC2-%23232F3E?logo=AmazonEC2)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
