@@ -26,6 +26,7 @@ I use these tools frequently for work and personal projects:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%23232F3E?logo=GraphQL)
 ![Storybook](https://img.shields.io/badge/-Storybook-%23232F3E?logo=Storybook)
 ![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
+![FramerMotion](https://img.shields.io/badge/-FramerMoton-%23232F3E?logo=Framer)
 ![i18next](https://img.shields.io/badge/-i18next-%23232F3E?logo=i18next)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
