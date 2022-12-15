@@ -6,9 +6,9 @@ I’m predominantly a React developer, UI Designer, tech enthusiast. Currently l
 [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples) and
 [vercel](https://vercel.com/).
 
-More about me → www.silvadigital.net
+More about me → www.silvadigital.net - Currentlty working on updating this site.
 
-Medium  → www.medium.com/@maxsilvauk. - Currentlty working on updating this site.
+Medium  → www.medium.com/@maxsilvauk.
 
 I use these tools frequently for work and personal projects:
 
