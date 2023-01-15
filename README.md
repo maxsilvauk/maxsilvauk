@@ -2,7 +2,7 @@
 
 Hey, I’m Max
 
-I’m predominantly a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently finishing a contract for the Government Digital Service team. Looking for new opportunites immediately. Currently working on some personal projects using [next](https://nextjs.org/),
+I’m predominantly a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently working on a payment gateway side project. Looking for new opportunites immediately. Also working on some personal projects using [next](https://nextjs.org/) v13,
 [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples) and
 [vercel](https://vercel.com/).
 
@@ -55,8 +55,6 @@ I use these tools frequently for work and personal projects:
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
 ![Hygraph](https://img.shields.io/badge/-Hygraph-%23232F3E?logo=GraphQL)
 
-
-
 I am getting better at using: 
 
 ![AmazonEC2](https://img.shields.io/badge/-Amazon%20EC2-%23232F3E?logo=AmazonEC2)
@@ -70,6 +68,3 @@ Need to use and understand more of:
 ![Sanity.io](https://img.shields.io/badge/-Sanity-%23232F3E?logo=Sanity)
 ![Terraform](https://img.shields.io/badge/-Terraform-%23232F3E?logo=Terraform)
 ![Cypress](https://img.shields.io/badge/-Cypress-%23232F3E?logo=Cypress)
-
-
-
