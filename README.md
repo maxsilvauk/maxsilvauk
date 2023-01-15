@@ -18,6 +18,7 @@ I use these tools frequently for work and personal projects:
 ![NextJSv12](https://img.shields.io/badge/-Next%20v12-%23232F3E?logo=Next.JS)
 ![NextJSv13](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23232F3E?logo=TypeScript)
+![Zustand](https://img.shields.io/badge/-Zustand-%23232F3E?logo=Zustand)
 ![Redux/Toolkit](https://img.shields.io/badge/-Redux/Toolkit-%23232F3E?logo=Redux)
 ![Redux](https://img.shields.io/badge/-Redux-%23232F3E?logo=Redux)
 ![Express](https://img.shields.io/badge/-Express-%23232F3E?logo=Express)
@@ -52,16 +53,15 @@ I use these tools frequently for work and personal projects:
 ![Jira](https://img.shields.io/badge/-Jira-%23232F3E?logo=Jira)
 ![Zoho](https://img.shields.io/badge/-Zoho-%23232F3E?logo=Zoho)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
+![Hygraph](https://img.shields.io/badge/-Hygraph-%23232F3E?logo=GraphQL)
 
 
 
 I am getting better at using: 
 
-![Zustand](https://img.shields.io/badge/-Zustand-%23232F3E?logo=Zustand)
 ![AmazonEC2](https://img.shields.io/badge/-Amazon%20EC2-%23232F3E?logo=AmazonEC2)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
 ![MongoDBAtlas](https://img.shields.io/badge/-MongoDBAtlas-%23232F3E?logo=MongoDB)
-![Hygraph](https://img.shields.io/badge/-Hygraph-%23232F3E?logo=GraphQL)
 
 Need to use and understand more of:
 
