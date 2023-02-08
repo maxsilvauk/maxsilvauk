@@ -52,6 +52,7 @@ I use these tools frequently for work and personal projects:
 ![Zoho](https://img.shields.io/badge/-Zoho-%23232F3E?logo=Zoho)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
 ![Hygraph](https://img.shields.io/badge/-Hygraph-%23232F3E?logo=GraphQL)
+![Sentry](https://img.shields.io/badge/-Sentry-%23232F3E?logo=Sentry)
 
 I am getting better at using: 
 
