@@ -66,6 +66,7 @@ Code Monitoring:
 Project management tools:
 
 ![Jira](https://img.shields.io/badge/-Jira-%23232F3E?logo=Jira)
+![Confluence](https://img.shields.io/badge/-Confluence-%23232F3E?logo=Confluence)
 ![Zoho](https://img.shields.io/badge/-Zoho-%23232F3E?logo=Zoho)
 
 IDE tools:
