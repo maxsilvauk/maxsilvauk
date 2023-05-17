@@ -32,9 +32,9 @@ Frontend:
 ![Sketch](https://img.shields.io/badge/-Sketch-%23232F3E?logo=Sketch)
 ![Figma](https://img.shields.io/badge/-Figma-%23232F3E?logo=Figma)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
-![Sentry](https://img.shields.io/badge/-Sentry-%23232F3E?logo=Sentry)
 ![FramerMotion](https://img.shields.io/badge/-FramerMoton-%23232F3E?logo=Framer)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
+![ReactHookForms](https://img.shields.io/badge/-ReactHookForms-%23232F3E?logo=ReactHookForm)
 
 Backend: 
 
