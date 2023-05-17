@@ -34,7 +34,7 @@ Frontend:
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
 ![FramerMotion](https://img.shields.io/badge/-FramerMoton-%23232F3E?logo=Framer)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
-![ReactHookForms](https://img.shields.io/badge/-ReactHookForms-%23232F3E?logo=ReactHookForm)
+![ReactHookForm](https://img.shields.io/badge/-ReactHookForm-%23232F3E?logo=ReactHookForm)
 
 Backend: 
 
