@@ -16,6 +16,9 @@ Frontend:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23232F3E?logo=TypeScript)
 ![Redux/Toolkit](https://img.shields.io/badge/-Redux/Toolkit-%23232F3E?logo=Redux)
 ![Redux](https://img.shields.io/badge/-Redux-%23232F3E?logo=Redux)
+![ReactHookForm](https://img.shields.io/badge/-ReactHookForm-%23232F3E?logo=ReactHookForm)
+![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
+![ReactQuery](https://img.shields.io/badge/-ReactQuery-%23232F3E?logo=ReactQuery)
 ![Zustand](https://img.shields.io/badge/-Zustand-%23232F3E?logo=Zustand)
 ![Apollo](https://img.shields.io/badge/-ApolloClient-%23232F3E?logo=ApolloGraphQL)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%23232F3E?logo=GraphQL)
@@ -31,11 +34,7 @@ Frontend:
 ![InVision](https://img.shields.io/badge/-InVision-%23232F3E?logo=InVision)
 ![Sketch](https://img.shields.io/badge/-Sketch-%23232F3E?logo=Sketch)
 ![Figma](https://img.shields.io/badge/-Figma-%23232F3E?logo=Figma)
-![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
 ![FramerMotion](https://img.shields.io/badge/-FramerMotion-%23232F3E?logo=Framer)
-![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
-![ReactHookForm](https://img.shields.io/badge/-ReactHookForm-%23232F3E?logo=ReactHookForm)
-![ReactQuery](https://img.shields.io/badge/-ReactQuery-%23232F3E?logo=ReactQuery)
 
 Backend: 
 
