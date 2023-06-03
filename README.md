@@ -32,9 +32,10 @@ Frontend:
 ![Sketch](https://img.shields.io/badge/-Sketch-%23232F3E?logo=Sketch)
 ![Figma](https://img.shields.io/badge/-Figma-%23232F3E?logo=Figma)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
-![FramerMotion](https://img.shields.io/badge/-FramerMoton-%23232F3E?logo=Framer)
+![FramerMotion](https://img.shields.io/badge/-FramerMotion-%23232F3E?logo=Framer)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
 ![ReactHookForm](https://img.shields.io/badge/-ReactHookForm-%23232F3E?logo=ReactHookForm)
+![ReactQuery](https://img.shields.io/badge/-ReactQuery-%23232F3E?logo=ReactQuery)
 
 Backend: 
 
@@ -47,6 +48,11 @@ Backend:
 ![PostGreSql](https://img.shields.io/badge/-PostgreSql-%23232F3E?logo=PostgreSql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
 ![MySql](https://img.shields.io/badge/-MySql-%23232F3E?logo=MySql)
+
+
+AI:
+
+![GithubCoPilot](https://img.shields.io/badge/-GithubCoPilot-%23232F3E?logo=Github)
 
 CI/CD:
 
