@@ -1,6 +1,8 @@
 Hey, I’m Max
 
-I’m predominantly a React developer, UI Designer, tech enthusiast. Currently living in Bristol, United Kingdom. I am currently developing a payment gateway project. I am Looking for new opportunites immediately. Also working on some personal projects using [next v13.4](https://nextjs.org/),
+Full-stack developer, UI Designer. Currently living in Bristol, United Kingdom.
+
+[next v13.4](https://nextjs.org/),
 [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/examples) and
 [vercel](https://vercel.com/).
 
