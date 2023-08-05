@@ -21,7 +21,7 @@ Programming Languages:
 
 Frameworks: 
 
-![NextJSv13](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS) (New App and public dir)
+![NextJSv13](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS)
 ![Reactv18](https://img.shields.io/badge/-React%20v18-%23232F3E?logo=React)
 
 State Management:
@@ -35,8 +35,9 @@ Internationalization:
 
 ![i18next](https://img.shields.io/badge/-i18next-%23232F3E?logo=i18next)
 
-Query:
+Query/Fetching:
 
+![Axios](https://img.shields.io/badge/-Axios-%23232F3E?logo=Axios)
 ![ReactQuery](https://img.shields.io/badge/-ReactQuery-%23232F3E?logo=ReactQuery)
 ![Apollo](https://img.shields.io/badge/-ApolloClient-%23232F3E?logo=ApolloGraphQL)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%23232F3E?logo=GraphQL)
@@ -71,7 +72,6 @@ Styling Frameworks:
 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-%23232F3E?logo=Mui)
-![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23232F3E?logo=Bootstrap)
 
@@ -92,7 +92,7 @@ Backend:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
 ![MySql](https://img.shields.io/badge/-MySql-%23232F3E?logo=MySql)
 
-CI/CD:
+Dev-Ops CI/CD:
 
 ![Github Actions](https://img.shields.io/badge/-GithubActions-%23232F3E?logo=GithubActions)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23232F3E?logo=Vercel)
