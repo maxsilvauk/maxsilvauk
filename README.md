@@ -46,6 +46,7 @@ Testing:
 
 ![Jest](https://img.shields.io/badge/-Jest-%23232F3E?logo=Jest)
 ![TestingLibrary](https://img.shields.io/badge/-TestingLibrary-%23232F3E?logo=TestingLibrary)
+![Cypress](https://img.shields.io/badge/-Cypress-%23232F3E?logo=Cypress)
 
 Animation: 
 
@@ -160,4 +161,3 @@ Need to use and understand more:
 
 ![Blender](https://img.shields.io/badge/-Blender-%23232F3E?logo=Blender)
 ![Terraform](https://img.shields.io/badge/-Terraform-%23232F3E?logo=Terraform)
-![Cypress](https://img.shields.io/badge/-Cypress-%23232F3E?logo=Cypress)
