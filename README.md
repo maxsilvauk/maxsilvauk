@@ -163,3 +163,4 @@ Need to use and understand more:
 ![Blender](https://img.shields.io/badge/-Blender-%23232F3E?logo=Blender)
 ![Terraform](https://img.shields.io/badge/-Terraform-%23232F3E?logo=Terraform)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23232F3E?logo=Kubernetes)
+![Python](https://img.shields.io/badge/-Python-%23232F3E?logo=Python)
