@@ -73,6 +73,7 @@ Form Management:
 Styling Frameworks:
 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
+![DaisyUI](https://img.shields.io/badge/-Daisy%20UI-%23232F3E?logo=DaisyUI)
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-%23232F3E?logo=Mui)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23232F3E?logo=Bootstrap)
@@ -85,7 +86,7 @@ Component tooling:
 Backend: 
 
 ![Node](https://img.shields.io/badge/-Node.js-%23232F3E?logo=Node.js)
-![NextJSv13](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS)
+![NextJSv14](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS)
 ![Express](https://img.shields.io/badge/-Express-%23232F3E?logo=Express)
 ![Docker](https://img.shields.io/badge/-Docker-%23232F3E?logo=Docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23232F3E?logo=Prisma)
