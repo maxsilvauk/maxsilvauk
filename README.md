@@ -21,7 +21,7 @@ Programming Languages:
 
 Frameworks: 
 
-![NextJSv14](https://img.shields.io/badge/-Next%20v13-%23232F3E?logo=Next.JS)
+![NextJSv14](https://img.shields.io/badge/-Next%20v14-%23232F3E?logo=Next.JS)
 ![Reactv18](https://img.shields.io/badge/-React%20v18-%23232F3E?logo=React)
 ![Remix](https://img.shields.io/badge/-Remix-%23232F3E?logo=Remix)
 
@@ -56,10 +56,10 @@ Animation:
 Front-End Apps:
 
 ![Postman](https://img.shields.io/badge/-Postman-%23232F3E?logo=Postman)
+![Figma](https://img.shields.io/badge/-Figma-%23232F3E?logo=Figma)
+![Sketch](https://img.shields.io/badge/-Sketch-%23232F3E?logo=Sketch)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-%23232F3E?logo=AdobePhotoshop)
 ![InVision](https://img.shields.io/badge/-InVision-%23232F3E?logo=InVision)
-![Sketch](https://img.shields.io/badge/-Sketch-%23232F3E?logo=Sketch)
-![Figma](https://img.shields.io/badge/-Figma-%23232F3E?logo=Figma)
 
 WebGL 3D
 
@@ -70,9 +70,11 @@ Form Management:
 ![ReactHookForm](https://img.shields.io/badge/-ReactHookForm-%23232F3E?logo=ReactHookForm)
 ![Formik](https://img.shields.io/badge/-Formik-%23232F3E?logo=Formik)
 
-Styling Frameworks:
+CSS Frameworks:
 
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-%23232F3E?logo=Tailwindcss)
+![ShadCN/UI](https://img.shields.io/badge/-Shadcnui-%23232F3E?logo=ShadcnUI)
+![RadixUI](https://img.shields.io/badge/-Radix%20UI-%23232F3E?logo=RadixUI)
 ![DaisyUI](https://img.shields.io/badge/-Daisy%20UI-%23232F3E?logo=DaisyUI)
 ![MaterialUI](https://img.shields.io/badge/-Material%20UI-%23232F3E?logo=Mui)
 ![StyledComponents](https://img.shields.io/badge/-Styled%20Components-%23232F3E?logo=Styledcomponents)
@@ -91,7 +93,7 @@ Backend:
 ![Docker](https://img.shields.io/badge/-Docker-%23232F3E?logo=Docker)
 ![Prisma](https://img.shields.io/badge/-Prisma-%23232F3E?logo=Prisma)
 ![Supabase](https://img.shields.io/badge/-Supabase-%23232F3E?logo=Supabase)
-![PostGreSql](https://img.shields.io/badge/-PostgreSql-%23232F3E?logo=PostgreSql)
+![PostGresSql](https://img.shields.io/badge/-PostgreSql-%23232F3E?logo=PostgreSql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%23232F3E?logo=MongoDB)
 ![MySql](https://img.shields.io/badge/-MySql-%23232F3E?logo=MySql)
 
