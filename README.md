@@ -1,6 +1,6 @@
 Hey, I’m Max
 
-Full-stack developer, UI Designer. 
+Full-stack developer, mainly speacalise in Next.jS, Tailwindcss, and building sites from scratch (Greenfield) projetcts, UI Designer. 
 Currently living in Bristol, United Kingdom.
 
 ----------------------------------------------------------
