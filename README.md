@@ -1,7 +1,6 @@
 Hey, I’m Max
 
-Full-stack developer, mainly speacalise in Next.jS, Tailwindcss, and building sites from scratch (Greenfield) projetcts, UI Designer. 
-Currently living in Bristol, United Kingdom.
+17+ years of experience as a creative and committed full-stack and front-end developer, working for startups, small companies, mid-sized, large and international firms ranging from consultancy firms, tech firms and web agencies. I have had the privilege of contributing to initiatives directly funded and sponsored by industry leaders such as Visa, Vodafone, BMW, Porsche, Land Rover, Sony Ericsson,  FIFA©, La Liga Tech, MLS, MBA, The Royal Navy, The UK Army and EO100 Responsible Energy™
 
 ----------------------------------------------------------
 
