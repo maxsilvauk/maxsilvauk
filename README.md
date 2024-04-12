@@ -13,7 +13,7 @@ Medium  → www.medium.com/@maxsilvauk.
 
 Programming Languages:
 
-![JavascriptES12](https://img.shields.io/badge/-JavaScript%20ES12-%23232F3E?logo=Javascript)
+![JavascriptES13](https://img.shields.io/badge/-JavaScript%20ES12-%23232F3E?logo=Javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23232F3E?logo=TypeScript)
 ![html5](https://img.shields.io/badge/-html5-%23232F3E?logo=Html5)
 ![css3](https://img.shields.io/badge/-CSS3-%23232F3E?logo=css3)
