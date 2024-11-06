@@ -20,8 +20,8 @@ Programming Languages:
 
 Frameworks: 
 
-![NextJSv15](https://img.shields.io/badge/-Next%20v14-%23232F3E?logo=Next.JS)
-![Reactv18.13.1](https://img.shields.io/badge/-React%20v18-%23232F3E?logo=React)
+![NextJSv15](https://img.shields.io/badge/-Next%20v15-%23232F3E?logo=Next.JS)
+![Reactv18.13.1](https://img.shields.io/badge/-React%20v18.3-%23232F3E?logo=React)
 ![Remix](https://img.shields.io/badge/-Remix-%23232F3E?logo=Remix)
 
 State Management:
